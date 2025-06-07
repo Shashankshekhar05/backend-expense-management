@@ -25,8 +25,26 @@ A Spring Boot web application for managing and tracking enterprise-level expense
 
 ## 📸 Screenshots
 
-![Screenshot 2025-06-07 160903](https://github.com/user-attachments/assets/d5c20234-fd54-4e98-b2e3-851653f5b136)
-![Screenshot 2025-06-07 171827](https://github.com/user-attachments/assets/d217190e-5ce2-4038-ba00-c9be5d04aec4)
+![![Screenshot 2025-06-07 174615](https://github.com/user-attachments/assets/25d4cdbd-4fd7-4d05-b6b4-e46cae2f6122)
+)
+![![Screenshot 2025-06-07 174631](https://github.com/user-attachments/assets/803c7517-0702-4239-9e53-8bacb4b4a455)
+)
+![![![Screenshot 2025-06-07 174734](https://github.com/user-attachments/assets/42e0ba64-1645-4dcd-9271-5348a5c682c3)
+)
+![![![![Screenshot 2025-06-07 175010](https://github.com/user-attachments/assets/7747d9b5-dd45-4f5c-955f-6033d6b55d3a)
+)
+![![Screenshot 2025-06-07 175042](https://github.com/user-attachments/assets/d8bba7fd-1499-4d6b-ae68-b84c9a8c9747)
+)
+![![Screenshot 2025-06-07 175118](https://github.com/user-attachments/assets/b3094f6f-76c5-43e9-aab9-f1a05c70f6a4)
+)
+
+
+
+
+
+
+
+
 
 
 
